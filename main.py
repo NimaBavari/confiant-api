@@ -1,5 +1,3 @@
-# TODO: make the api async
-# TODO: dockerize
 import requests
 from flask import Flask, request
 from flask_caching import Cache
